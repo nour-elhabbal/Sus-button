@@ -7,3 +7,5 @@ function devil() {
     document.write("abl3 ya nooooob");
   }
 }
+
+console.log("sh8al sh8al")
